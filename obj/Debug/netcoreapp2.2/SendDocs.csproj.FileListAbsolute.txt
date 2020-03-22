@@ -1,0 +1,11 @@
+C:\Users\nelso\projects\SendDocs\bin\Debug\netcoreapp2.2\SendDocs.deps.json
+C:\Users\nelso\projects\SendDocs\bin\Debug\netcoreapp2.2\SendDocs.runtimeconfig.json
+C:\Users\nelso\projects\SendDocs\bin\Debug\netcoreapp2.2\SendDocs.runtimeconfig.dev.json
+C:\Users\nelso\projects\SendDocs\bin\Debug\netcoreapp2.2\SendDocs.dll
+C:\Users\nelso\projects\SendDocs\bin\Debug\netcoreapp2.2\SendDocs.pdb
+C:\Users\nelso\projects\SendDocs\obj\Debug\netcoreapp2.2\SendDocs.csprojAssemblyReference.cache
+C:\Users\nelso\projects\SendDocs\obj\Debug\netcoreapp2.2\SendDocs.csproj.CoreCompileInputs.cache
+C:\Users\nelso\projects\SendDocs\obj\Debug\netcoreapp2.2\SendDocs.AssemblyInfoInputs.cache
+C:\Users\nelso\projects\SendDocs\obj\Debug\netcoreapp2.2\SendDocs.AssemblyInfo.cs
+C:\Users\nelso\projects\SendDocs\obj\Debug\netcoreapp2.2\SendDocs.dll
+C:\Users\nelso\projects\SendDocs\obj\Debug\netcoreapp2.2\SendDocs.pdb
